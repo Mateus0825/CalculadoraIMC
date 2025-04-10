@@ -29,8 +29,8 @@ Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolv
 
 ---
 
-## ▶️ Como executar o projeto
-
+### Instalação
+```bash
 # Clone o repositório
 git clone https://github.com/Mateus0825/CalculadoraIMC
 
@@ -39,6 +39,19 @@ cd CalculadoraIMC
 
 # Instale as dependências
 npm install
+```
+
+### Execução
+```bash
+npx expo start --tunnel
+```
+#### Android
+- Escaneie o QR code pelo aplicativo Expo Go
+
+#### IOS
+- Escaneie o QR code pela própria câmera do celular
+
+---
 
 ### ✅ Pré-requisitos
 - Node.js instalado
