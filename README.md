@@ -4,23 +4,23 @@ Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolv
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 📩 Entrada de dados do usuário (peso em kg e altura em cm)
-- ✅ Validação dos campos obrigatórios e valores numéricos
-- 📊 Cálculo do IMC com resultado arredondado para 2 casas decimais
-- 🏷️ Exibição da classificação de acordo com o IMC:
-  - Abaixo do peso
-  - Peso normal
-  - Sobrepeso
-  - Obesidade Grau I
-  - Obesidade Grau II
-  - Obesidade Grau III
-- 🎨 Estilização personalizada dos componentes
+- Entrada de dados do usuário (peso em kg e altura em cm)
+- Validação dos campos obrigatórios e valores numéricos
+- Cálculo do IMC com resultado arredondado para 2 casas decimais
+- Exibição da classificação de acordo com o IMC:
+- Abaixo do peso
+- Peso normal
+- Sobrepeso
+- Obesidade Grau I
+- Obesidade Grau II
+- Obesidade Grau III
+- Estilização personalizada dos componentes
 
 ---
 
-## 📂 Estrutura dos Componentes
+## Estrutura dos Componentes
 
 - **`App.js`**: Componente principal que organiza os elementos da tela.
 - **`components/Title.js`**: Título da aplicação.
@@ -30,6 +30,15 @@ Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolv
 ---
 
 ## ▶️ Como executar o projeto
+
+# Clone o repositório
+git clone https://github.com/Mateus0825/CalculadoraIMC
+
+# Acesse a pasta do projeto
+cd CalculadoraIMC
+
+# Instale as dependências
+npm install
 
 ### ✅ Pré-requisitos
 - Node.js instalado
